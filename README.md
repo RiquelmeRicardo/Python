@@ -1,2 +1,2 @@
 # Python
-Reestudando python
+👋 - Bem vindo ao meu repositorio de python - 👋
